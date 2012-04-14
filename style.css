@@ -1,0 +1,96 @@
+body{
+	background-image:url("images/back-gradient.jpg");
+	background-repeat:repeat-x;
+	background-color:#f3f2de;
+}
+div.container{
+	width:950px;
+	margin:0 auto;
+}
+
+div.clear{
+	width:0;
+	height:0;
+	float:none;
+	clear:both;	
+}
+
+div.header div.leftheader{
+	min-height:250px;
+	width:250px;
+	float:left;
+	background-image:url('images/site-logo.png');
+	background-repeat:no-repeat;
+}
+div.header div.rightheader{
+	min-height:250px;
+	margin-left:250px;
+	width:auto;
+}
+div.header div.rightheader div.menu{
+	
+}
+div.header div.rightheader div.introduction{
+	
+}
+div.content{
+	min-height:800px;
+}
+
+div.banner{
+	min-height:450px;
+}
+
+div.panels div.leftpanel{
+	min-height:350px;
+	width:340px;
+	float:left;
+}
+div.panels div.rightpanel{
+	min-height:350px;
+	width:320px;
+	float:right;
+}
+div.panels div.midpanel{
+	min-height:350px;
+	margin-left:340px;
+	margin-right:320px;
+	width:auto;
+}
+
+div.bottom div.leftbottom{
+	min-height:300px;
+	width:250px;
+	float:left;
+}
+div.bottom div.rightbottom{
+	min-height:300px;
+	width:250px;
+	float:right;
+}
+div.bottom div.mid1bottom{
+	min-height:300px;
+	width:250px;
+	float:left;
+}
+div.bottom div.mid2bottom{
+	min-height:300px;
+	margin-left:500px;
+	margin-right:250px;
+	width:auto;
+}
+
+
+div.footer div.leftfooter{
+	min-height:150px;
+	width:400px;
+	float:left;
+}
+div.footer div.rightfooter{
+	min-height:150px;
+	width:auto;
+	margin-left:400px;
+}
+
+
+
